@@ -9,7 +9,54 @@ Link to accounts for ECE382 students.
 
 ## M4
 
+- [Sean Bapty]
+- [Matthew Bergstedt]
+- [Taylor Bodin]
+- [Gytenis Borusas]
+- [Ian Goulet]
+- [Christopher Kiernan]
+- [Nolan Mallory]
+- [Cassandra McPeek]
+- [Sabin Park]
+- [Ryan Redhead]
+- [Alex Sisco]
+- [Tyler Spence]
+- [John Terragnoli]
+- [Marcus Turner]
+- [Jarrod Wooden]
+
 ## M6
 
+- [Jasper Arneberg]
+- [Austin Bolinger]
+- [Kevin Cabusora]
+- [Hamza El-Saawy]
+- [Sean Gavan]
+- [Joshua Hayden]
+- [Hunter Her]
+- [Kevin Jagoda]
+- [Calvin Johnson]
+- [Kyle Jonas]
+- [Erica Lewandowski]
+- [Jason Pluger]
+- [Aaron Stolze]
+- [Eric Thompson]
+- [Joseph Votto]
+- [Dustin Weisner]
+
 ## T6
+
+- [Joseph Agnolutto]
+- [James Combs]
+- [Anthony Echeverry]
+- [Jacob Echeverry]
+- [Daniel Eichman]
+- [Ian Goodbody]
+- [Jeremy Gruszka]
+- [Jacob Lawson]
+- [Alexander Leaf]
+- [John Rios]
+- [Nathan Ruprecht]
+- [Eric Wardner]
+- [Brian Yarbrough]
 
