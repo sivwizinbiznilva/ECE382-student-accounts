@@ -1,7 +1,7 @@
 ECE281-student-accounts
 =======================
 
-Link to accounts for ECE382 students.
+Link to accounts for ECE281 students.
 
 - [Capt Silva](https://www.github.com/sivwizinbiznilva)
 - [Dr. Neebel]
