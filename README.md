@@ -4,7 +4,7 @@ ECE281-student-accounts
 Link to accounts for ECE281 students.
 
 - [Capt Silva](https://www.github.com/sivwizinbiznilva)
-- [Dr. Neebel]
+- [Dr. Neebel](https://github.com/drdanial)
 - [Capt Trimble]
 
 ## M4
