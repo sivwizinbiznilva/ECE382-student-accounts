@@ -26,6 +26,7 @@ Link to accounts for ECE281 students.
 - [Marcus Turner](https://github.com/MTurner94)
 - [Jarrod Wooden]
 - [Eric Wardner](https://github.com/EricWardner)
+- [Ashley Thrower] (https://github.com/xAshleyTx)
 
 ## M6
 
