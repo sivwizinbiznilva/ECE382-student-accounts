@@ -24,7 +24,7 @@ Link to accounts for ECE281 students.
 - [John Terragnoli]
 - [Marcus Turner]
 - [Jarrod Wooden]
-- [Ashley Thrower] (https://gitbub.com/xAshleyTx)
+- [Ashley Thrower] (https://github.com/xAshleyTx)
 
 ## M6
 
