@@ -21,7 +21,6 @@ Link to accounts for ECE281 students.
 - [Alex Sisco](https://github.com/alexsisco714)
 - [Tyler Spence](https://github.com/TylerSpence)
 - [Ryan Redhead](https://github.com/RyanRedhead)
-- [John Terragnoli]
 - [Marcus Turner](https://github.com/MTurner94)
 - [John Terragnoli](https://github.com/JohnTerragnoli/ECE281-student-accounts)
 - [Jarrod Wooden]
