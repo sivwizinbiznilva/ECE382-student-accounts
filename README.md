@@ -15,7 +15,7 @@ Link to accounts for ECE281 students.
 - [Gytenis Borusas]
 - [Ian Goulet]
 - [Christopher Kiernan]
-- [Nolan Mallory]
+- [Nolan Mallory](https://github.com/nolanmallory)
 - [Cassandra McPeek]
 - [Sabin Park]
 - [Ryan Redhead]
