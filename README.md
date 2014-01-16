@@ -12,7 +12,7 @@ Link to accounts for ECE281 students.
 - [Sean Bapty]
 - [Matthew Bergstedt](https://github.com/mbergstedt)
 - [Taylor Bodin]
-- [Gytenis Borusas]
+- [Gytenis Borusas](https://www.github.com/gytenis98)
 - [Ian Goulet]
 - [Christopher Kiernan]
 - [Nolan Mallory]
