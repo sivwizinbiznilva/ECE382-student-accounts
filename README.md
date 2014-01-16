@@ -33,7 +33,7 @@ Link to accounts for ECE281 students.
 - [Jasper Arneberg]
 - [Austin Bolinger]
 - [Kevin Cabusora]
-- [Hamza El-Saawy]
+- [Hamza El-Saawy](https://github.com/hamzaelsaawy)
 - [Sean Gavan]
 - [Joshua Hayden]
 - [Hunter Her]
