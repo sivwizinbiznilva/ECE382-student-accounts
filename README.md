@@ -45,7 +45,7 @@ Link to accounts for ECE281 students.
 - [Aaron Stolze]
 - [Eric Thompson]
 - [Joseph Votto]
-- [Dustin Weisner]
+- [Dustin Weisner](https://github.com/dustyweisner)
 
 ## T6
 
