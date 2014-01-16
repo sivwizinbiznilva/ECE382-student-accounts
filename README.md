@@ -34,7 +34,7 @@ Link to accounts for ECE281 students.
 - [Kevin Cabusora]
 - [Hamza El-Saawy](https://github.com/hamzaelsaawy)
 - [Sean Gavan]
-- [Joshua Hayden]
+- [Joshua Hayden](https://github.com/JoshuaHayden)
 - [Hunter Her]
 - [Kevin Jagoda]
 - [Calvin Johnson]
