@@ -29,7 +29,6 @@ Link to accounts for ECE281 students.
 
 ## M6
 
-<<<<<<< HEAD
 - [Austin Bolinger](https://github.com/Austinbolinger)
 - [Jasper Arneberg](https://github.com/JasperArneberg)
 - [Kevin Cabusora]
