@@ -25,7 +25,7 @@ Link to accounts for ECE281 students.
 - [John Terragnoli](https://github.com/JohnTerragnoli/ECE281-student-accounts)
 - [Eric Wardner](https://github.com/EricWardner)
 - [Ashley Thrower] (https://github.com/xAshleyTx)
- [Jarrod Wooden](https://github.com/JarrodWooden)
+- [Jarrod Wooden](https://github.com/JarrodWooden)
 
 ## M6
 
