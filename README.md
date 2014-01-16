@@ -36,7 +36,7 @@ Link to accounts for ECE281 students.
 - [Hamza El-Saawy]
 - [Sean Gavan]
 - [Joshua Hayden]
-- [Hunter Her]
+- [Hunter Her] (https://github.com/vipersfly23)
 - [Kevin Jagoda]
 - [Calvin Johnson]
 - [Kyle Jonas]
