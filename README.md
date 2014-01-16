@@ -39,7 +39,7 @@ Link to accounts for ECE281 students.
 - [Hunter Her]
 - [Kevin Jagoda]
 - [Calvin Johnson]
-- [Kyle Jonas]
+- [Kyle Jonas](https://github.com/KyleJonas)
 - [Erica Lewandowski]
 - [Jason Pluger]
 - [Aaron Stolze]
