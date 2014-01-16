@@ -14,7 +14,7 @@ Link to accounts for ECE281 students.
 - [Taylor Bodin]
 - [Gytenis Borusas](https://www.github.com/gytenis98)
 - [Ian Goulet]
-- [Christopher Kiernan]
+- [Christopher Kiernan](https://github.com/ChrisMKiernan)
 - [Nolan Mallory]
 - [Cassandra McPeek]
 - [Sabin Park]
