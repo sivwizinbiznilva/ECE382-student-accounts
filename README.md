@@ -20,7 +20,7 @@ Link to accounts for ECE281 students.
 - [Sabin Park](https://github.com/sabinpark)
 - [Ryan Redhead]
 - [Alex Sisco](https://github.com/alexsisco714)
-- [Tyler Spence]
+- [Tyler Spence](https://github.com/TylerSpence)
 - [John Terragnoli]
 - [Marcus Turner](https://github.com/MTurner94)
 - [Jarrod Wooden]
