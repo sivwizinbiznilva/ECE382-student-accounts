@@ -36,6 +36,7 @@ Link to accounts for ECE281 students.
 - [Sean Gavan]
 - [Hunter Her] (https://github.com/vipersfly23)
 - [Joshua Hayden](https://github.com/JoshuaHayden)
+- [Sean Gavan](https://github.com/SeanGavan)
 - [Kevin Jagoda]
 - [Calvin Johnson]
 - [Erica Lewandowski](https://github.com/EricaLewandowski)
