@@ -57,6 +57,6 @@ Link to accounts for ECE281 students.
 - [Alexander Leaf]
 - [John Rios]
 - [Nathan Ruprecht]
-- [Eric Wardner]
+- [Eric Wardner](https://github.com/EricWardner)
 - [Brian Yarbrough]
 
