@@ -22,7 +22,7 @@ Link to accounts for ECE281 students.
 - [Alex Sisco]
 - [Tyler Spence]
 - [John Terragnoli]
-- [Marcus Turner]
+- [Marcus Turner](https://github.com/MTurner94)
 - [Jarrod Wooden]
 
 ## M6
