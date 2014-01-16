@@ -45,6 +45,7 @@ Link to accounts for ECE281 students.
 - [Eric Thompson]
 - [Joseph Votto]
 - [Dustin Weisner]
+- [Sung Woo Suh] (https://github.com/suhsungwoo)
 
 ## T6
 
