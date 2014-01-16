@@ -10,7 +10,7 @@ Link to accounts for ECE281 students.
 ## M4
 
 - [Sean Bapty]
-- [Matthew Bergstedt]
+- [Matthew Bergstedt](https://github.com/mbergstedt)
 - [Taylor Bodin]
 - [Gytenis Borusas]
 - [Ian Goulet]
