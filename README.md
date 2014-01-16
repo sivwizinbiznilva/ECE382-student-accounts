@@ -24,6 +24,7 @@ Link to accounts for ECE281 students.
 - [John Terragnoli]
 - [Marcus Turner]
 - [Jarrod Wooden]
+- [Eric Wardner](https://github.com/EricWardner)
 
 ## M6
 
@@ -57,6 +58,5 @@ Link to accounts for ECE281 students.
 - [Alexander Leaf]
 - [John Rios]
 - [Nathan Ruprecht]
-- [Eric Wardner](https://github.com/EricWardner)
 - [Brian Yarbrough]
 
