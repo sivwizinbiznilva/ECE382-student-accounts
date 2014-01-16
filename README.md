@@ -29,7 +29,7 @@ Link to accounts for ECE281 students.
 
 ## M6
 
-- [Jasper Arneberg]
+- [Jasper Arneberg](https://github.com/JasperArneberg)
 - [Austin Bolinger]
 - [Kevin Cabusora]
 - [Hamza El-Saawy]
