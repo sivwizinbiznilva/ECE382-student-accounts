@@ -41,8 +41,9 @@ Link to accounts for ECE281 students.
 - [Calvin Johnson]
 - [Erica Lewandowski](https://github.com/EricaLewandowski)
 - [Kyle Jonas](https://github.com/KyleJonas)
-- [Jason Pluger]
 - [Aaron Stolze](https://github.com/aaronstolze)
+- [Jason Pluger](https://github.com/JasonPluger)
+- [Aaron Stolze]
 - [Eric Thompson]
 - [Joseph Votto]
 - [Dustin Weisner](https://github.com/dustyweisner)
@@ -61,4 +62,5 @@ Link to accounts for ECE281 students.
 - [John Rios]
 - [Nathan Ruprecht]
 - [Brian Yarbrough]
+
 
