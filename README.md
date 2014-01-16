@@ -33,7 +33,6 @@ Link to accounts for ECE281 students.
 - [Jasper Arneberg](https://github.com/JasperArneberg)
 - [Hamza El-Saawy](https://github.com/hamzaelsaawy)
 - [Kevin Cabusora](https://github.com/KevinCabusora)
-- [Sean Gavan]
 - [Hunter Her] (https://github.com/vipersfly23)
 - [Joshua Hayden](https://github.com/JoshuaHayden)
 - [Sean Gavan](https://github.com/SeanGavan)
