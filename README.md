@@ -19,8 +19,6 @@ Link to accounts for ECE281 students.
 - [Sabin Park](https://github.com/sabinpark)
 - [Christopher Kiernan]
 - [Nolan Mallory](https://github.com/nolanmallory)
-- [Cassandra McPeek]
-- [Sabin Park]
 - [Ryan Redhead]
 - [Alex Sisco](https://github.com/alexsisco714)
 - [Tyler Spence](https://github.com/TylerSpence)
