@@ -39,7 +39,7 @@ Link to accounts for ECE281 students.
 - [Calvin Johnson]
 - [Kyle Jonas]
 - [Erica Lewandowski]
-- [Jason Pluger]
+- [Jason Pluger](https://github.com/JasonPluger)
 - [Aaron Stolze]
 - [Eric Thompson]
 - [Joseph Votto]
@@ -59,4 +59,5 @@ Link to accounts for ECE281 students.
 - [John Rios]
 - [Nathan Ruprecht]
 - [Brian Yarbrough]
+
 
