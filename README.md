@@ -40,7 +40,7 @@ Link to accounts for ECE281 students.
 - [Kyle Jonas]
 - [Erica Lewandowski]
 - [Jason Pluger]
-- [Aaron Stolze]
+- [Aaron Stolze](https://github.com/aaronstolze)
 - [Eric Thompson]
 - [Joseph Votto]
 - [Dustin Weisner]
