@@ -39,8 +39,8 @@ Link to accounts for ECE281 students.
 - [Joshua Hayden](https://github.com/JoshuaHayden)
 - [Kevin Jagoda]
 - [Calvin Johnson]
-- [Kyle Jonas]
 - [Erica Lewandowski](https://github.com/EricaLewandowski)
+- [Kyle Jonas](https://github.com/KyleJonas)
 - [Jason Pluger]
 - [Aaron Stolze](https://github.com/aaronstolze)
 - [Eric Thompson]
