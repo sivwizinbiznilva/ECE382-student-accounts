@@ -55,7 +55,7 @@ Link to accounts for ECE281 students.
 - [Ian Goodbody]
 - [Jeremy Gruszka]
 - [Jacob Lawson]
-- [Alexander Leaf]
+- [Alexander Leaf](https://github.com/apleaf)
 - [John Rios]
 - [Nathan Ruprecht]
 - [Brian Yarbrough]
