@@ -42,7 +42,7 @@ Link to accounts for ECE281 students.
 - [Kyle Jonas](https://github.com/KyleJonas)
 - [Aaron Stolze](https://github.com/aaronstolze)
 - [Jason Pluger](https://github.com/JasonPluger)
-- [Eric Thompson]
+- [Erik Thompson](https://github.com/C16erikthompson)
 - [Joseph Votto]
 - [Dustin Weisner](https://github.com/dustyweisner)
 - [Sung Woo Suh] (https://github.com/suhsungwoo)
