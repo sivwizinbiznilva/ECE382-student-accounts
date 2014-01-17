@@ -11,41 +11,39 @@ Link to accounts for ECE281 students.
 
 - [Sean Bapty]
 - [Matthew Bergstedt](https://github.com/mbergstedt)
-- [Gytenis Borusas](https://www.github.com/gytenis98)
 - [Taylor Bodin] (https://github.com/taylorbodin)
-- [Ian Goulet]
+- [Gytenis Borusas](https://www.github.com/gytenis98)
 - [Christopher Kiernan](https://github.com/ChrisMKiernan)
+- [Nolan Mallory](https://github.com/nolanmallory)
 - [Cassie McPeek](https://github.com/CassieMcPeek)
 - [Sabin Park](https://github.com/sabinpark)
-- [Nolan Mallory](https://github.com/nolanmallory)
+- [Ryan Redhead](https://github.com/RyanRedhead)
 - [Alex Sisco](https://github.com/alexsisco714)
 - [Tyler Spence](https://github.com/TylerSpence)
-- [Ryan Redhead](https://github.com/RyanRedhead)
-- [Marcus Turner](https://github.com/MTurner94)
 - [John Terragnoli](https://github.com/JohnTerragnoli/ECE281-student-accounts)
-- [Eric Wardner](https://github.com/EricWardner)
 - [Ashley Thrower] (https://github.com/xAshleyTx)
+- [Marcus Turner](https://github.com/MTurner94)
+- [Eric Wardner](https://github.com/EricWardner)
 - [Jarrod Wooden](https://github.com/JarrodWooden)
 
 ## M6
 
-- [Austin Bolinger](https://github.com/Austinbolinger)
 - [Jasper Arneberg](https://github.com/JasperArneberg)
-- [Hamza El-Saawy](https://github.com/hamzaelsaawy)
+- [Austin Bolinger](https://github.com/Austinbolinger)
 - [Kevin Cabusora](https://github.com/KevinCabusora)
-- [Hunter Her] (https://github.com/vipersfly23)
-- [Joshua Hayden](https://github.com/JoshuaHayden)
+- [Hamza El-Saawy](https://github.com/hamzaelsaawy)
 - [Sean Gavan](https://github.com/SeanGavan)
+- [Joshua Hayden](https://github.com/JoshuaHayden)
+- [Hunter Her] (https://github.com/vipersfly23)
 - [Kevin Jagoda]
-- [Calvin Johnson]
-- [Erica Lewandowski](https://github.com/EricaLewandowski)
 - [Kyle Jonas](https://github.com/KyleJonas)
-- [Aaron Stolze](https://github.com/aaronstolze)
+- [Erica Lewandowski](https://github.com/EricaLewandowski)
 - [Jason Pluger](https://github.com/JasonPluger)
+- [Aaron Stolze](https://github.com/aaronstolze)
+- [Sung Woo Suh] (https://github.com/suhsungwoo)
 - [Erik Thompson](https://github.com/C16erikthompson)
 - [Joseph Votto]
 - [Dustin Weisner](https://github.com/dustyweisner)
-- [Sung Woo Suh] (https://github.com/suhsungwoo)
 
 ## T6
 
