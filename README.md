@@ -58,5 +58,5 @@ Link to accounts for ECE281 students.
 - [John Rios]
 - [Nathan Ruprecht]
 - [Eric Wardner]
-- [Brian Yarbrough]
+- [Brian Yarbrough](https://github.com/byarbrough/ECE281-student-accounts)
 
