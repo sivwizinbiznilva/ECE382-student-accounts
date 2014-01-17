@@ -48,10 +48,12 @@ Link to accounts for ECE281 students.
 
 ## T6
 
+<<<<<<< HEAD
 - [Scott Agnolutto] (https://github.com/C15Agnolutto)
 - [James Combs](https://github.com/jcel)
 - [Anthony Echeverry](https://github.com/AnthonyEcheverry)
-- [Jacob Echeverry]
+- [Jacob Echeverry] (https:/github.com/jrecheverry)
+- [Ian Goodbody] (https://github.com/IanGoodbody)
 - [Daniel Eichman](https://github.com/DanielEichman/ECE281_CE1) 
 - [Ian Goodbody] (https://github.com/IanGoodbody)
 - [Jeremy Gruszka]( https://github.com/JeremyGruszka/ECE281-student-accounts)
