@@ -52,7 +52,7 @@ Link to accounts for ECE281 students.
 - [Anthony Echeverry]
 - [Jacob Echeverry]
 - [Daniel Eichman]
-- [Ian Goodbody]
+- [Ian Goodbody] (https://github.com/IanGoodbody)
 - [Jeremy Gruszka]
 - [Jacob Lawson]
 - [Alexander Leaf]
