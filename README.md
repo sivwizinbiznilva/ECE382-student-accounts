@@ -58,7 +58,7 @@ Link to accounts for ECE281 students.
 - [Jacob Lawson] (https://github.com/JacobLawson)
 - [Alexander Leaf](https://github.com/apleaf)
 - [John Rios]
-- [Nathan Ruprecht]
+- [Nathan Ruprecht] (https://github.com/NathanRuprecht/ECE281_CE1)
 - [Brian Yarbrough]
 
 
