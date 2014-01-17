@@ -26,6 +26,7 @@ Link to accounts for ECE281 students.
 - [Eric Wardner](https://github.com/EricWardner)
 - [Jarrod Wooden](https://github.com/JarrodWooden)
 
+
 ## M6
 
 - [Jasper Arneberg](https://github.com/JasperArneberg)
@@ -49,7 +50,7 @@ Link to accounts for ECE281 students.
 
 - [Joseph Agnolutto]
 - [James Combs]
-- [Anthony Echeverry]
+- [ANTHONY ECHEVERRY](https://github.com/AnthonyEcheverry)
 - [Jacob Echeverry]
 - [Daniel Eichman]
 - [Ian Goodbody] (https://github.com/IanGoodbody)
