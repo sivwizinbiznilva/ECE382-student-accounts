@@ -50,7 +50,7 @@ Link to accounts for ECE281 students.
 
 - [Joseph Agnolutto]
 - [James Combs](https://github.com/jcel)
-- [ANTHONY ECHEVERRY](https://github.com/AnthonyEcheverry)
+- [Anthony Echeverry](https://github.com/AnthonyEcheverry)
 - [Jacob Echeverry]
 - [Daniel Eichman](https://github.com/DanielEichman/ECE281_CE1) 
 - [Ian Goodbody] (https://github.com/IanGoodbody)
