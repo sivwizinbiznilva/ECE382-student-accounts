@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ECE281-student-accounts
 =======================
 
