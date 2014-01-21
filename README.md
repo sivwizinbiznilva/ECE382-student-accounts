@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ECE281-student-accounts
 =======================
 
@@ -9,7 +10,7 @@ Link to accounts for ECE281 students.
 
 ## M4
 
-- [Sean Bapty]
+- [Sean Bapty](https://github.com/seanbapty)
 - [Matthew Bergstedt](https://github.com/mbergstedt)
 - [Taylor Bodin] (https://github.com/taylorbodin)
 - [Gytenis Borusas](https://www.github.com/gytenis98)
