@@ -20,7 +20,7 @@ Link to accounts for ECE281 students.
 - [Ryan Redhead](https://github.com/RyanRedhead)
 - [Alex Sisco](https://github.com/alexsisco714)
 - [Tyler Spence](https://github.com/TylerSpence)
-- [John Terragnoli](https://github.com/JohnTerragnoli/ECE281-student-accounts)
+- [John Terragnoli](https://github.com/JohnTerragnoli)
 - [Ashley Thrower] (https://github.com/xAshleyTx)
 - [Marcus Turner](https://github.com/MTurner94)
 - [Eric Wardner](https://github.com/EricWardner)
