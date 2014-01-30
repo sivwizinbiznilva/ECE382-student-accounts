@@ -43,7 +43,7 @@ Link to accounts for ECE281 students.
 - [Aaron Stolze](https://github.com/aaronstolze)
 - [Sung Woo Suh] (https://github.com/suhsungwoo)
 - [Erik Thompson](https://github.com/C16erikthompson)
-- [Joseph Votto]
+- [Joseph Votto](https://github.com/Farseer14)
 - [Dustin Weisner](https://github.com/dustyweisner)
 
 ## T6
