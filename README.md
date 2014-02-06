@@ -54,10 +54,10 @@ Link to accounts for ECE281 students.
 - [Jacob Echeverry] (https://github.com/jrecheverry)
 - [Daniel Eichman](https://github.com/DanielEichman/ECE281_CE1) 
 - [Ian Goodbody] (https://github.com/IanGoodbody)
-- [Jeremy Gruszka]( https://github.com/JeremyGruszka/ECE281-student-accounts)
+- [Jeremy Gruszka]( https://github.com/JeremyGruszka)
 - [Jacob Lawson] (https://github.com/JacobLawson)
 - [Alexander Leaf](https://github.com/apleaf)
-- [John Rios](https://github.com/John-Rios/ECE281-student-accounts)
+- [John Rios](https://github.com/John-Rios)
 - [Nathan Ruprecht] (https://github.com/NathanRuprecht/ECE281_CE1)
 - [Brian Yarbrough](https://github.com/byarbrough)
 
