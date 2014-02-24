@@ -52,7 +52,7 @@ Link to accounts for ECE281 students.
 - [James Combs](https://github.com/jcel)
 - [Anthony Echeverry](https://github.com/AnthonyEcheverry)
 - [Jacob Echeverry] (https://github.com/jrecheverry)
-- [Daniel Eichman](https://github.com/DanielEichman/ECE281_CE1) 
+- [Daniel Eichman](https://github.com/DanielEichman) 
 - [Ian Goodbody] (https://github.com/IanGoodbody)
 - [Jeremy Gruszka]( https://github.com/JeremyGruszka)
 - [Jacob Lawson] (https://github.com/JacobLawson)
